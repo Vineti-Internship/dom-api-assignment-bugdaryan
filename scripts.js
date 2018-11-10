@@ -100,7 +100,7 @@ function startCircle(){
     
     //this function will be rolling circle
     function frame(){
-        if(i<=0) //checking if i is grather or equal to our points length
+        if(i<=0) 
             i=points.length-1;
         circle.style.left=`${points[i].x-50}px` //changing circles left and top positions
         circle.style.top=`${points[i].y-50}px`
