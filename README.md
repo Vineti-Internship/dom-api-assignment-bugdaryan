@@ -21,6 +21,11 @@
 
 __There are two possible grades for this assignment: P and F (Pass, Fail)__
 
-## Grade: __To Be Added__
+## Grade: P
+
+## Feedback
+- `arr[i]={x:x,y:y}` could've been written as `arr[i] = { x, y }`
+- Please follow appropriate code style
+    - [For Reference](https://github.com/airbnb/javascript)
 
 \* DO NOT CHANGE THIS DOCUMENT, the reviewer will check the homework and add the grade
